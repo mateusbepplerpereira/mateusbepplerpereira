@@ -21,11 +21,11 @@
    <img align="center" alt="Mateus-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg">
   </div>
 
-<br><br>
+<br>
 
   <div align = "center"  id = "badges"> 
   <a href = "[link para seu perfil do LinkedIn]"> 
-    <img  src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo =linkedin&logoColor=white"  alt = "LinkedIn Badge" /> 
+    <img width="80" height="40"  src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo =linkedin&logoColor=white"  alt = "LinkedIn Badge" /> 
   </a> 
 </div>
 
