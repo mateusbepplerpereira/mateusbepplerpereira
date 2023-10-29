@@ -1,9 +1,13 @@
 <div  id = "header"  align = "center"> 
   <h1> Olá, sou o Mateus Beppler Pereira!👋</h1> 
+  <p> <b>Desenvolvedor | Python | Automação | RPA | PHP | JavaScript | CSS | Bootstrap | Jequry | Laravel | Banco de Dados | MySQL | Git | CI/CD</b> </p> 
 
 </div>
 
 
+<div align="center">
+<h1>Sobre Mim</h1>
+</div>
 
 
 
@@ -12,7 +16,6 @@
 No futuro, pretendo continuar minha educação e buscar oportunidades desafiadoras no campo da tecnologia.</p>
 
 
-  <p> <b>Desenvolvedor | Python | Automação | RPA | PHP | JavaScript | CSS | Bootstrap | Jequry | Laravel | Banco de Dados | MySQL | Git | CI/CD</b> </p> 
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">
       <img align="center" alt="Mateus-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg">
