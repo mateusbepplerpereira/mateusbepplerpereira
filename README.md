@@ -26,7 +26,7 @@
  <div align="center">
  <a href="https://t.me/mbepplerp" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23314d8f?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <!--<a href="https://instagram.com/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
-  <a href = "mailto:mateusbepplerpereira@gmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mateusbepplerpereira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mbepplerp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -46,7 +46,6 @@
 No futuro, pretendo continuar minha educação e buscar oportunidades desafiadoras no campo da tecnologia.</p>
 
 
-![Snake animation](https://github.com/mateusbepplerpereira/mateusbepplerpereira/blob/output/github-contribution-grid-snake.svg)
 
 
 
