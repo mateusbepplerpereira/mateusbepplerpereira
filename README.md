@@ -5,9 +5,11 @@ Sou um jovem de 17 anos apaixonado pela tecnologia, morador de São Paulo, Brasi
 
 No futuro, pretendo continuar minha educação e buscar oportunidades desafiadoras no campo da tecnologia.
 
+<div style="display:flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg" height="40" width="40"/>
-<!--
+</div>
+  <!--
 **mateusbepplerpereira/mateusbepplerpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
