@@ -5,6 +5,8 @@ Sou um jovem de 17 anos apaixonado pela tecnologia, morador de São Paulo, Brasi
 
 No futuro, pretendo continuar minha educação e buscar oportunidades desafiadoras no campo da tecnologia.
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 
 <!--
 **mateusbepplerpereira/mateusbepplerpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
