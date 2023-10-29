@@ -32,7 +32,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mateusbepplerpereira&color=green" style="display:none">
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mateusbepplerpereira&color=yellow" style="display:none">
+</div>
 
 
 <div align="center">
