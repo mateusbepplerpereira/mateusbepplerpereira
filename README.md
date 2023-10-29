@@ -51,30 +51,7 @@ No futuro, pretendo continuar minha educação e buscar oportunidades desafiador
 </div>
 <br><br>
 <div id = "stats" align="center" > 
-  <img src = "https://streak-stats.demolab.com?user=[mateusbepplerpereira]&theme=transparent&fire=FFDB58"  alt = "GitHub Streak " /> 
+  <img src = "https://streak-stats.demolab.com?user=[mateusbepplerpereira]&theme=transparent&fire=FFDB58"  alt = "GitHub Streak"/> 
 </div>
 
 
-
-
-
-
-
-
-
-
-
-  <!--
-**mateusbepplerpereira/mateusbepplerpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
