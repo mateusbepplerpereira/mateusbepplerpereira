@@ -51,7 +51,7 @@ No futuro, pretendo continuar minha educação e buscar oportunidades desafiador
 
 <br><br>
 <div id = "stats" align="center" > 
-  <img src = "https://streak-stats.demolab.com?user=[mateusbepplerpereira]&theme=#FFFFFF&fire=EB5454"  alt = "GitHub Streak " /> 
+  <img src = "https://streak-stats.demolab.com?user=[mateusbepplerpereira]&theme=transparent&fire=FFDB58"  alt = "GitHub Streak " /> 
 </div>
 
 
