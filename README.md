@@ -1,5 +1,5 @@
 # Olá, sou o Mateus Beppler Pereira!
-#### **Desenvolvedor | Python | Automação | RPA | PHP | JavaScript | CSS | Bootstrap | Jequry | Laravel | Banco de Dados | MySQL | Git | CI/CD**
+**Desenvolvedor | Python | Automação | RPA | PHP | JavaScript | CSS | Bootstrap | Jequry | Laravel | Banco de Dados | MySQL | Git | CI/CD**
 
 
 <!--
