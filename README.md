@@ -15,7 +15,8 @@ No futuro, pretendo continuar minha educação e buscar oportunidades desafiador
 </div>
 
 
-<div dir="auto"><br>
+<div dir="auto">
+<br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="Kaio-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;">
 </a>
