@@ -3,12 +3,13 @@
   <p> <b>Desenvolvedor | Python | Automação | RPA | PHP | JavaScript | CSS | Bootstrap | Jequry | Laravel | Banco de Dados | MySQL | Git | CI/CD</b> </p> 
 </div>
 
+<h1>Sobre Mim</h1>
 
 Sou um jovem de 17 anos apaixonado pela tecnologia, morador de São Paulo, Brasil, atualmente, estou no último ano do ensino médio, minha jornada como desenvolvedor começou aos 14 anos, porém minha fascinação pelo mundo da tecnologia vem desde a infância, sou um entusiasta da inovação e estou sempre em busca de oportunidades para aprender e crescer, minha jornada na programação me ensinou a ser organizado, dedicado e proativo, acredito que o sucesso está diretamente relacionado ao desejo de aprender constantemente e ao esforço em melhorar a cada dia.
 
 No futuro, pretendo continuar minha educação e buscar oportunidades desafiadoras no campo da tecnologia.
 
-<div  id = "badges"> 
+<div align = "center"  id = "badges"> 
   <a href = "[link para seu perfil do LinkedIn]"> 
     <img  src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo =linkedin&logoColor=white"  alt = "LinkedIn Badge" /> 
   </a> 
