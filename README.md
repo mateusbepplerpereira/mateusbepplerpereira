@@ -5,9 +5,14 @@ Sou um jovem de 17 anos apaixonado pela tecnologia, morador de São Paulo, Brasi
 
 No futuro, pretendo continuar minha educação e buscar oportunidades desafiadoras no campo da tecnologia.
 
-![Python](https://img.shields.io/badge/JavaScript-ES6-yellow](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-plain.svg)
-
-
+<div> 
+  < img  src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"     title = " React" alt = "React" largura = "40" altura = "40" />   
+  < img  src = "https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"  title = "SF"  alt = "sf"  largura = "40"  altura = "40 " />   
+  < img  src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title = "Python"  alt = "Py"  largura = "40"  altura = "40" / > 
+   < img  src = "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title = "JQuery"  alt = "JQuery"  largura = "40"  altura = "40" / > 
+  < img  src = "https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"  title = "R"  alt = "R"  largura = "40"  altura = "40 " />   
+  < img  src = "https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg"   title = "D3"  alt = "D3"  largura = "40"  altura = "40 " />   
+  <div> _ _
 <!--
 **mateusbepplerpereira/mateusbepplerpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
