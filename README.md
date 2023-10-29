@@ -5,7 +5,7 @@ Sou um jovem de 17 anos apaixonado pela tecnologia, morador de São Paulo, Brasi
 
 No futuro, pretendo continuar minha educação e buscar oportunidades desafiadoras no campo da tecnologia.
 
-![Python]([https://img.shields.io/badge/JavaScript-ES6-yellow](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-plain.svg))
+![Python](https://img.shields.io/badge/JavaScript-ES6-yellow](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-plain.svg))
 
 
 <!--
