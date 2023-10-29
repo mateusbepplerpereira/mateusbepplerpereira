@@ -23,10 +23,11 @@
 
 <br>
 
-  <div align = "center"  id = "badges"> 
-  <a href = "[link para seu perfil do LinkedIn]"> 
-    <img width="80" height="40"  src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo =linkedin&logoColor=white"  alt = "LinkedIn Badge" /> 
-  </a> 
+ <div align="center">
+ <a href="https://t.me/mbepplerp" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23314d8f?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <!--<a href="https://instagram.com/kaiopiola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
+  <a href = "mailto:mateusbepplerpereira@gmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mbepplerp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
