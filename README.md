@@ -1,5 +1,5 @@
 <div  id = "header"  align = "center"> 
-  <h1> Olá, sou o Mateus Beppler Pereira! </h1> 
+  <h1> Olá, sou o Mateus Beppler Pereira!👋</h1> 
   <p> <b>Desenvolvedor | Python | Automação | RPA | PHP | JavaScript | CSS | Bootstrap | Jequry | Laravel | Banco de Dados | MySQL | Git | CI/CD</b> </p> 
 </div>
 
