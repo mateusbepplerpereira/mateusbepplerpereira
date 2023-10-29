@@ -50,7 +50,7 @@
 No futuro, pretendo continuar minha educação e buscar oportunidades desafiadoras no campo da tecnologia.</p>
 
 <div id = "stats" > 
-  <img src = "https://streak-stats.demolab.com?user=[seu nome de usuário]&theme=transparent&fire=EB5454"  alt = "GitHub Streak " /> 
+  <img src = "https://streak-stats.demolab.com?user=[mateusbepplerpereira]&theme=transparent&fire=EB5454"  alt = "GitHub Streak " /> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=[mateusbepplerpereira]&layout=compact&theme=vision-friendly-dark"  alt = "Idiomas principais " /> 
 </div>
 
