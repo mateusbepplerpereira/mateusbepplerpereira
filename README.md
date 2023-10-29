@@ -18,11 +18,10 @@
         <img align="center" alt="Mateus-Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/composer/composer-original.svg">
               <img align="center" alt="Mateus-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
               <img align="center" alt="Mateus-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg">
-   <img align="center" alt="Mateus-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg">
-<br>  
+   <img align="center" alt="Mateus-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg"> 
 </div>
 
-<br>
+<br><br>
 
   <div align = "center"  id = "badges"> 
   <a href = "[link para seu perfil do LinkedIn]"> 
