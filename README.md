@@ -1,11 +1,5 @@
-#hello, im Mateus Beppler Pereira
-um jovem de 17 anos apaixonado pela tecnologia, morador de São Paulo, Brasil, atualmente, estou no último ano do ensino médio, minha jornada como desenvolvedor começou aos 14 anos, porém minha fascinação pelo mundo da tecnologia vem desde a infância, sou um entusiasta da inovação e estou sempre em busca de oportunidades para aprender e crescer, minha jornada na programação me ensinou a ser organizado, dedicado e proativo, acredito que o sucesso está diretamente relacionado ao desejo de aprender constantemente e ao esforço em melhorar a cada dia.
+# hello, im Mateus Beppler Pereira
 
-Minhas habilidades técnicas incluem programação em Python, PHP e JavaScript, bem como o gerenciamento de bancos de dados MySQL, sou proficiente em Git e Github, além disso, tenho experiência em automação RPA (Automação de Processos Robóticos) e no desenvolvimento de aplicativos web usando tecnologias como Laravel, CSS e Bootstrap.
-
-O que me diferencia é a minha capacidade de pensar de forma inovadora e encontrar soluções criativas para desafios complexos, acredito que a tecnologia é uma ferramenta poderosa para impulsionar a eficiência e a produtividade, e estou comprometido em utilizar minhas habilidades para criar soluções que melhorem a vida das pessoas e das empresas.
-
-No futuro, pretendo continuar minha educação e buscar oportunidades desafiadoras no campo da tecnologia.
 
 <!--
 **mateusbepplerpereira/mateusbepplerpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
