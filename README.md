@@ -46,6 +46,9 @@
 No futuro, pretendo continuar minha educação e buscar oportunidades desafiadoras no campo da tecnologia.</p>
 
 
+![Snake animation](https://github.com/mateusbepplerpereira/mateusbepplerpereira/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
