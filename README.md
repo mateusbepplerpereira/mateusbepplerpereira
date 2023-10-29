@@ -30,6 +30,10 @@
   <a href="https://www.linkedin.com/in/mbepplerp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mateusbepplerpereira&color=green" style="display:none">
+
 
 <div align="center">
 <h1>Sobre Mim</h1>
