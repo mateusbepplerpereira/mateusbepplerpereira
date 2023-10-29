@@ -19,7 +19,8 @@
               <img align="center" alt="Mateus-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
               <img align="center" alt="Mateus-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg">
    <img align="center" alt="Mateus-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg">
-  </div>
+<br>  
+</div>
 
 <br>
 
