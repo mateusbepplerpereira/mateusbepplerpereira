@@ -46,7 +46,7 @@
 
 
 <div align="center">
-<p>Sou um jovem de 17 anos apaixonado pela tecnologia, morador do estado de São Paulo, Brasil, atualmente, estou no primeiro ano do ensino superior, minha jornada como desenvolvedor começou aos 14 anos, porém minha fascinação pelo mundo da tecnologia vem desde a infância, sou um entusiasta da inovação e estou sempre em busca de oportunidades para aprender e crescer, minha jornada na programação me ensinou a ser organizado, dedicado e proativo, acredito que o sucesso está diretamente relacionado ao desejo de aprender constantemente e ao esforço em melhorar a cada dia.
+<p>Sou um jovem apaixonado pela tecnologia, morador do estado de São Paulo, Brasil, atualmente, estou no primeiro ano do ensino superior, minha jornada como desenvolvedor começou aos 14 anos, porém minha fascinação pelo mundo da tecnologia vem desde a infância, sou um entusiasta da inovação e estou sempre em busca de oportunidades para aprender e crescer, minha jornada na programação me ensinou a ser organizado, dedicado e proativo, acredito que o sucesso está diretamente relacionado ao desejo de aprender constantemente e ao esforço em melhorar a cada dia.
 <br><br>
 No futuro, pretendo continuar minha educação e buscar oportunidades desafiadoras no campo da tecnologia.</p>
 </div>
