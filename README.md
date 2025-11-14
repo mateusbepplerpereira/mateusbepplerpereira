@@ -49,8 +49,3 @@
 No futuro, pretendo continuar minha educação e buscar oportunidades desafiadoras no campo da tecnologia.</p>
 </div>
 <br><br>
-<div id = "stats" align="center" > 
-  <img src = "https://streak-stats.demolab.com?user=[mateusbepplerpereira]&theme=transparent&fire=FFDB58"  alt = "GitHub Streak"/> 
-</div>
-
-
